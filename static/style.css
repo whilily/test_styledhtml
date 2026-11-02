@@ -1,7 +1,20 @@
+body {
+    background-color:#000000;
+}
+
 h1 {
     color:#ffffff;
-    background-color:#333333
+    background-color:aquamarine;
+    border-radius:5px;
+    display:inline-block;
 }
 h2 {
-    color:black;
+    text-decoration: underline;
+}
+h3 {
+}
+
+.mt {
+    color:#ffffff;
+    text-align: center;
 }
